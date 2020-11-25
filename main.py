@@ -8,7 +8,7 @@ import datetime
 
 autoBuy = False
 autoRetry = False
-credittype = "PAID"                 #金体力还是蓝体力 PAID是金体力 FREE是蓝体力
+credittype = "PAID"                 #金体力还是蓝体力 PAID是金体力 FREE是蓝体力 111
 myCookie = ''
 myUA = ''
 
